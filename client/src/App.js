@@ -16,7 +16,7 @@ import Dashboard from './pages/dashboard';
 import Investorprofile from './pages/investors/Investorprofile';
 import RequestDemo from './components/Dashboard/RequestDemo';
 import DocumentVerification from './pages/documentVerification/DocumentVerification';
-import Footer from './pages/footer/Footer';
+// import Footer from './pages/footer/Footer';
 import StartupProfile from './pages/product/StartupProflie';
 import AddInvestor from './pages/investors/AddInvestor'; 
 import AddStartup from './pages/startups/AddStartup';
@@ -96,7 +96,7 @@ function App(props) {
           
         </Routes>
          
-        <Footer/>
+        {/* <Footer/> */}
       </BrowserRouter>
     </>
   );
