@@ -2,7 +2,7 @@ import React from 'react';
 import { Grid, Typography, Button, Box } from '@mui/material';
 import image from "../../assets/images/login.jpg";
 import { useNavigate } from "react-router-dom";
-import Link from '@mui/material/Link';
+
 
 export default function Intro() {
 
