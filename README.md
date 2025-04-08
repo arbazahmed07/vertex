@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Vertex – Real-Time Investment Marketplace 💼🚀
 
