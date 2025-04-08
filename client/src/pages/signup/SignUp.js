@@ -45,7 +45,7 @@ function SignUp() {
       });
 
     try {
-      if (response.status == 200) {
+      if (response.status === 200) {
         Swal.fire({
           icon: "success",
           title: "Success",
